@@ -1,4 +1,4 @@
-//Testing with node bundle
+//Testing with lodash
 let _ = require("lodash");
 
 const array = [1,2,3,4,5,67,8];
